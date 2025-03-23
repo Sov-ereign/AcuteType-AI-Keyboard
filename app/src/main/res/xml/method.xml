@@ -1,0 +1,8 @@
+<input-method
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity=".SettingsActivity">
+    <subtype
+        android:label="With AI Keyboard"
+        android:imeSubtypeMode="keyboard"
+        android:languageTag="en" />
+</input-method>
